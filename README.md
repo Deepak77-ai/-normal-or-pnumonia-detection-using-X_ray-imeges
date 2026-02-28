@@ -45,15 +45,11 @@ export AWS_DEFAULT_REGION=<AWS_DEFAULT_REGION>
 ```
 Step 3. Create an environment using : Python -m venv my_env
 
-```
 step 4. activate an evirnoment : my_env\Scripts\activate
-```
 
 Step 5. Install the requirements : pip install -r requirements.txt
- ```
 
 Step 6. run an app.py using : streamlit run app.py" or using "python app.py
-```
 
 
 ## Conclusion
