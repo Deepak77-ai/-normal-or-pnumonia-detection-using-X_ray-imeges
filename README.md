@@ -32,16 +32,16 @@ go to my live application(sometimes it takes few sec to load) -->  https://iv3kv
 Step 1. Cloning the repository.
 
 https://github.com/Deepak77-ai/-normal-or-pnumonia-detection-using-X_ray-imeges/
-```
+
 
 Step 2: create an .env file & give the keys mension below
-
+```
 export AWS_ACCESS_KEY_ID=<AWS_ACCESS_KEY_ID>
 
 export AWS_SECRET_ACCESS_KEY=<AWS_SECRET_ACCESS_KEY>
 
 export AWS_DEFAULT_REGION=<AWS_DEFAULT_REGION>
-
+```
 
 Step 3. Create an environment using : Python -m venv my_env
 
